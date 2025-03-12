@@ -83,7 +83,3 @@ Plot a graph for **five sequential rotations** applied to **P**, where:
 
 ---
 
-## **Contributions**
-Feel free to fork this repository and improve the documentation or code.
-
----
