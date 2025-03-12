@@ -26,7 +26,6 @@ J = \begin{bmatrix}
   L_1 \cos(\theta_1) + L_2 \cos(\theta_1 + \theta_2) &  L_2 \cos(\theta_1 + \theta_2)
 \end{bmatrix}
 $$
-
 ### **Description:**  
 Compute the **Jacobian matrix** for a **2-link planar manipulator**.
 
